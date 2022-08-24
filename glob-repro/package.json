@@ -15,7 +15,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"mdsvex": "^0.10.6",
-		"svelte-preprocess": "^4.10.7"
+		"mdsvex": "^0.10.6"
 	}
 }
